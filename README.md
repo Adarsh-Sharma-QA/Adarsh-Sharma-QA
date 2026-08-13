@@ -1,20 +1,6 @@
 <div align="center">
-
-# Adarsh Sharma
-### QA Team Lead · Test Automation · AI Evaluation
-
-*Two views of the same profile — pick whichever vibe you're into. Since GitHub READMEs can't run JavaScript, "switching" works as a native click-to-expand panel below, not a live re-skin — click a mode's title bar to open it.*
-
-<a href="#-visual-mode"><img src="https://img.shields.io/badge/🟡_VISUAL_MODE-0C0C0C?style=for-the-badge&logoColor=FFD600&labelColor=0C0C0C" /></a>
-<a href="#-terminal-mode"><img src="https://img.shields.io/badge/🟢_TERMINAL_MODE-0a0a0a?style=for-the-badge&logoColor=33FF00&labelColor=0a0a0a" /></a>
-
+<img src="assets/terminal-hero.png" width="100%" />
 </div>
-
-<br/>
-
-<a name="-visual-mode"></a>
-<details>
-<summary><b>🟡 VISUAL MODE — click to expand</b></summary>
 
 <br/>
 
@@ -219,27 +205,6 @@ Led end-to-end testing (UI / API / database) for a $10M B2B e-commerce platform.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD600,100:0C0C0C&height=4&section=header" width="100%"/>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Sharma-QA&show_icons=true&count_private=true&bg_color=0C0C0C&title_color=FFD600&icon_color=FFD600&text_color=E5E5E5&border_color=1a1a1a&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Sharma-QA&layout=compact&bg_color=0C0C0C&title_color=FFD600&text_color=E5E5E5&border_color=1a1a1a&hide_border=false" width="30%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Sharma-QA&background=0C0C0C&border=1a1a1a&stroke=1a1a1a&ring=FFD600&fire=FFD600&currStreakLabel=FFD600&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=6B7280" width="60%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Adarsh-Sharma-QA/Adarsh-Sharma-QA/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<br/>
-
 ## 🎨 Beyond Code
 
 <table width="100%">
@@ -270,33 +235,14 @@ A flaky test at 6pm builds character
 
 <br/>
 
-<div align="center">
-
-### 📬 Let's Connect
-
-I'm open to **QA**, **Test Automation** (Selenium / Playwright / Appium / Robot Framework) and **AI Evaluation** roles — remote-friendly.
-
-<a href="mailto:adarshqa91@gmail.com"><img src="https://img.shields.io/badge/Email-adarshqa91%40gmail.com-FFD600?style=for-the-badge&logo=gmail&logoColor=0C0C0C&labelColor=0C0C0C" /></a>
-<a href="https://www.linkedin.com/in/adarsh-sharma-qa"><img src="https://img.shields.io/badge/LinkedIn-adarsh--sharma--qa-FFD600?style=for-the-badge&logo=linkedin&logoColor=0C0C0C&labelColor=0C0C0C" /></a>
-
-<sub>Crafted with precision, tested with paranoia 🧪</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,50:14141F,100:0C0C0C&height=120&section=footer" width="100%"/>
-
-</div>
-
-</details>
-
-<br/>
-
-<a name="-terminal-mode"></a>
-<details>
-<summary><b>🟢 TERMINAL MODE — click to expand</b></summary>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD600,50:14141F,100:33FF00&height=4&section=header" width="100%"/>
 
 <div align="center">
-<img src="assets/terminal-hero.png" width="100%" />
+
+## 💻 Same Story, Raw Shell Version
+
+<sub>Everything above, replayed as an actual terminal session — because a QA engineer's profile should probably have a terminal in it somewhere.</sub>
+
 </div>
 
 <br/>
@@ -353,6 +299,10 @@ I'm open to **QA**, **Test Automation** (Selenium / Playwright / Appium / Robot 
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:33FF00,100:0a0a0a&height=4&section=header" width="100%"/>
+
+## 📈 GitHub Stats
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Sharma-QA&show_icons=true&count_private=true&bg_color=0a0a0a&title_color=33FF00&icon_color=33FF00&text_color=E5E5E5&border_color=1f521f&hide_border=false" width="49%" />
@@ -362,15 +312,25 @@ I'm open to **QA**, **Test Automation** (Selenium / Playwright / Appium / Robot 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Sharma-QA&background=0a0a0a&border=1f521f&stroke=1f521f&ring=33FF00&fire=FFB000&currStreakLabel=33FF00&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=6B7280" width="60%" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Adarsh-Sharma-QA/Adarsh-Sharma-QA/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
+
+<br/>
 
 <div align="center">
 
-<a href="mailto:adarshqa91@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=33FF00" /></a>
-<a href="https://www.linkedin.com/in/adarsh-sharma-qa"><img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=33FF00" /></a>
+### 📬 Let's Connect
 
-<sub>// EOF — thanks for reading the source</sub>
+I'm open to **QA**, **Test Automation** (Selenium / Playwright / Appium / Robot Framework) and **AI Evaluation** roles — remote-friendly.
+
+<a href="mailto:adarshqa91@gmail.com"><img src="https://img.shields.io/badge/Email-adarshqa91%40gmail.com-33FF00?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=0a0a0a" /></a>
+<a href="https://www.linkedin.com/in/adarsh-sharma-qa"><img src="https://img.shields.io/badge/LinkedIn-adarsh--sharma--qa-33FF00?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=0a0a0a" /></a>
+
+<sub>Crafted with precision, tested with paranoia 🧪 // EOF</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:14141F,100:0C0C0C&height=120&section=footer" width="100%"/>
 
 </div>
-
-</details>
