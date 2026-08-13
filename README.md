@@ -1,4 +1,6 @@
-<div align="center"><img src="assets/hero-top.png" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1600&pause=1200&color=3C823C&background=080C08&center=false&vCenter=true&width=1400&height=50&lines=%3E+INITIALIZING+QA+PROTOCOLS...;%3E+SYSTEM+READY+%5BOK%5D;%3E+SCANNING+FOR+BUGS...+%5BOK%5D" width="100%" alt="init"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=1400&pause=1400&color=33FF00&background=080C08&center=false&vCenter=true&width=1400&height=130&lines=FIND+BUGS+BEFORE;YOUR+USERS+DO" width="100%" alt="headline"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=1000&color=96BE96&background=080C08&center=false&vCenter=true&width=1400&height=50&lines=Adarsh+Sharma+-+QA+Team+Lead+building+test+automation+frameworks%2C;AI%2FLLM+evaluation+pipelines%2C+and+CI%2FCD+quality+gates%2C;that+let+teams+ship+faster+without+breaking+things." width="100%" alt="paragraph"/><img src="assets/hero-buttons.png" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=2000&color=FFB000&background=080C08&center=false&vCenter=true&width=1400&height=55&lines=STATUS%3A+Open+to+work+--+QA+%2F+Automation+%2F+AI+Evaluation+roles%2C+remote-friendly" width="100%" alt="status"/><img src="assets/hero-stats.png" width="100%"/><img src="assets/hero-bottom.png" width="100%"/></div>
+<div align="center">
+<img src="assets/terminal-hero.png" width="100%"/>
+</div>
 
 <br/>
 
