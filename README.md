@@ -306,10 +306,7 @@ $ ssh adarsh@github.io
 Connecting to github.io... [OK]
 Authenticating guest session... [OK]
 Loading profile ./adarsh-sharma-qa... [OK]
-_
-```
 
-```text
 +--------------- SYSTEM STATUS ----------------+
 | USER       : Adarsh Sharma                   |
 | ROLE       : QA Team Lead @ KPI (Infithra)   |
@@ -318,31 +315,22 @@ _
 | FOCUS      : QA / Automation / AI Evaluation |
 | EXPERIENCE : 6+ yrs (5+ in QA automation)    |
 +------------------------------------------------+
-```
 
-### `$ automation --list-skills`
-
-```text
+$ automation --list-skills
 SELENIUM            [██████████████████░░] 90%
 PLAYWRIGHT          [████████████████░░░░] 80%
 APPIUM              [███████████████░░░░░] 75%
 ROBOT_FRAMEWORK     [█████████████████░░░] 85%
 AI_EVAL/DEEPEVAL    [███████████████░░░░░] 75%
 CI_CD_PIPELINES     [█████████████████░░░] 85%
-```
 
-### `$ cat experience.log`
-
-```text
+$ cat experience.log
 [2025-NOW ] KPI (Infithra) :: QA_TEAM_LEAD     :: built QA org from zero; AI self-healing automation
 [2022-2024] SDET Tech      :: SDET_II          :: clients: Systech360, Builder_AI, HaulHub
 [2021-2022] Qualitest      :: TEST_ENGINEER    :: client: Adobe
 [2017-2018] Aisin          :: ENGINEER_TRAINEE :: clients: Maruti_Suzuki, Toyota
-```
 
-### `$ automation --help`
-
-```text
+$ automation --help
   --selenium          Java WebDriver automation frameworks
   --playwright         JS/TS UI automation
   --appium              iOS & Android mobile automation
@@ -351,24 +339,28 @@ CI_CD_PIPELINES     [█████████████████░░�
   --mcp                       Agentic self-healing automation (Claude Code)
   --ci  jenkins,gitlab-ci,azure-devops,circleci
   --infra  docker,kubernetes,grafana,sonarcloud
-```
 
-### `$ cat certifications.log`
-
-```text
+$ cat certifications.log
 [OK] AI Evaluation with DeepEval             -- Udemy
 [OK] LangChain for Beginners (RAG systems)   -- Udemy
 [OK] Jira with Real-World Examples           -- Udemy
 [OK] Java Programming: Solving Problems
 [OK] Python: Getting Started
 [OK] JMeter: Performance Testing
-```
 
-### `$ cat projects.log`
-
-```text
+$ cat projects.log
 [Unisecure]   Automated Android/iOS flows (Robot Framework + Appium) for regulatory compliance
 [Paper Trade] End-to-end QA (UI/API/DB) for a $10M B2B e-commerce platform
+
+$ contact --email
+> adarshqa91@gmail.com
+
+$ contact --linkedin
+> linkedin.com/in/adarsh-sharma-qa
+
+$ status --current
+> OPEN_TO_WORK :: QA / Automation / AI_Evaluation roles, remote-friendly
+_
 ```
 
 <br/>
@@ -383,20 +375,6 @@ CI_CD_PIPELINES     [█████████████████░░�
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Sharma-QA&background=0a0a0a&border=1f521f&stroke=1f521f&ring=33FF00&fire=FFB000&currStreakLabel=33FF00&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=6B7280" width="60%" />
 
 </div>
-
-### `$ contact --list`
-
-```text
-$ contact --email
-> adarshqa91@gmail.com
-
-$ contact --linkedin
-> linkedin.com/in/adarsh-sharma-qa
-
-$ status --current
-> OPEN_TO_WORK :: QA / Automation / AI_Evaluation roles, remote-friendly
-_
-```
 
 <div align="center">
 
