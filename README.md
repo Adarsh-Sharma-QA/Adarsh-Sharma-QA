@@ -1,5 +1,25 @@
 <div align="center">
 
+# Adarsh Sharma
+### QA Team Lead · Test Automation · AI Evaluation
+
+*Two views of the same profile — pick whichever vibe you're into. Since GitHub READMEs can't run JavaScript, "switching" works as a native click-to-expand panel below, not a live re-skin — click a mode's title bar to open it.*
+
+<a href="#-visual-mode"><img src="https://img.shields.io/badge/🟡_VISUAL_MODE-0C0C0C?style=for-the-badge&logoColor=FFD600&labelColor=0C0C0C" /></a>
+<a href="#-terminal-mode"><img src="https://img.shields.io/badge/🟢_TERMINAL_MODE-0a0a0a?style=for-the-badge&logoColor=33FF00&labelColor=0a0a0a" /></a>
+
+</div>
+
+<br/>
+
+<a name="-visual-mode"></a>
+<details open>
+<summary><b>🟡 VISUAL MODE — currently open · click to collapse</b></summary>
+
+<br/>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,50:14141F,100:0C0C0C&height=230&section=header&text=Adarsh%20%E2%80%94%20The%20Quality%20Expert&fontSize=38&fontColor=FFD600&fontAlignY=38&desc=QA%20Team%20Lead%20%C2%B7%20Test%20Automation%20%C2%B7%20AI%20Evaluation&descAlignY=58&descSize=17&descColor=E5E5E5&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Adarsh-Sharma-QA">
@@ -19,6 +39,8 @@
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD600,100:0C0C0C&height=4&section=header" width="100%"/>
 
 ## 🎯 What I Do
 
@@ -79,6 +101,8 @@
 ```
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0C0C,100:FFD600&height=4&section=header" width="100%"/>
 
 ## 🛠️ Technology Arsenal
 
@@ -195,6 +219,8 @@ Led end-to-end testing (UI / API / database) for a $10M B2B e-commerce platform.
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD600,100:0C0C0C&height=4&section=header" width="100%"/>
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -246,7 +272,7 @@ A flaky test at 6pm builds character
 
 <div align="center">
 
-## 📬 Let's Connect
+### 📬 Let's Connect
 
 I'm open to **QA**, **Test Automation** (Selenium / Playwright / Appium / Robot Framework) and **AI Evaluation** roles — remote-friendly.
 
@@ -258,3 +284,127 @@ I'm open to **QA**, **Test Automation** (Selenium / Playwright / Appium / Robot 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,50:14141F,100:0C0C0C&height=120&section=footer" width="100%"/>
 
 </div>
+
+</details>
+
+<br/>
+
+<a name="-terminal-mode"></a>
+<details>
+<summary><b>🟢 TERMINAL MODE — click to expand</b></summary>
+
+<br/>
+
+<div align="center">
+<img src="assets/terminal-hero.png" width="100%" />
+</div>
+
+<br/>
+
+```text
+$ ssh adarsh@github.io
+Connecting to github.io... [OK]
+Authenticating guest session... [OK]
+Loading profile ./adarsh-sharma-qa... [OK]
+_
+```
+
+```text
++--------------- SYSTEM STATUS ----------------+
+| USER       : Adarsh Sharma                   |
+| ROLE       : QA Team Lead @ KPI (Infithra)   |
+| LOCATION   : Dubai, UAE                      |
+| STATUS     : [OK] OPEN_TO_WORK               |
+| FOCUS      : QA / Automation / AI Evaluation |
+| EXPERIENCE : 6+ yrs (5+ in QA automation)    |
++------------------------------------------------+
+```
+
+### `$ automation --list-skills`
+
+```text
+SELENIUM            [██████████████████░░] 90%
+PLAYWRIGHT          [████████████████░░░░] 80%
+APPIUM              [███████████████░░░░░] 75%
+ROBOT_FRAMEWORK     [█████████████████░░░] 85%
+AI_EVAL/DEEPEVAL    [███████████████░░░░░] 75%
+CI_CD_PIPELINES     [█████████████████░░░] 85%
+```
+
+### `$ cat experience.log`
+
+```text
+[2025-NOW ] KPI (Infithra) :: QA_TEAM_LEAD     :: built QA org from zero; AI self-healing automation
+[2022-2024] SDET Tech      :: SDET_II          :: clients: Systech360, Builder_AI, HaulHub
+[2021-2022] Qualitest      :: TEST_ENGINEER    :: client: Adobe
+[2017-2018] Aisin          :: ENGINEER_TRAINEE :: clients: Maruti_Suzuki, Toyota
+```
+
+### `$ automation --help`
+
+```text
+  --selenium          Java WebDriver automation frameworks
+  --playwright         JS/TS UI automation
+  --appium              iOS & Android mobile automation
+  --robotframework        Python keyword-driven suites (1500+ cases)
+  --deepeval                LLM / GenAI output evaluation
+  --mcp                       Agentic self-healing automation (Claude Code)
+  --ci  jenkins,gitlab-ci,azure-devops,circleci
+  --infra  docker,kubernetes,grafana,sonarcloud
+```
+
+### `$ cat certifications.log`
+
+```text
+[OK] AI Evaluation with DeepEval             -- Udemy
+[OK] LangChain for Beginners (RAG systems)   -- Udemy
+[OK] Jira with Real-World Examples           -- Udemy
+[OK] Java Programming: Solving Problems
+[OK] Python: Getting Started
+[OK] JMeter: Performance Testing
+```
+
+### `$ cat projects.log`
+
+```text
+[Unisecure]   Automated Android/iOS flows (Robot Framework + Appium) for regulatory compliance
+[Paper Trade] End-to-end QA (UI/API/DB) for a $10M B2B e-commerce platform
+```
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Sharma-QA&show_icons=true&count_private=true&bg_color=0a0a0a&title_color=33FF00&icon_color=33FF00&text_color=E5E5E5&border_color=1f521f&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Sharma-QA&layout=compact&bg_color=0a0a0a&title_color=33FF00&text_color=E5E5E5&border_color=1f521f&hide_border=false" width="30%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Sharma-QA&background=0a0a0a&border=1f521f&stroke=1f521f&ring=33FF00&fire=FFB000&currStreakLabel=33FF00&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=6B7280" width="60%" />
+
+</div>
+
+### `$ contact --list`
+
+```text
+$ contact --email
+> adarshqa91@gmail.com
+
+$ contact --linkedin
+> linkedin.com/in/adarsh-sharma-qa
+
+$ status --current
+> OPEN_TO_WORK :: QA / Automation / AI_Evaluation roles, remote-friendly
+_
+```
+
+<div align="center">
+
+<a href="mailto:adarshqa91@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=33FF00" /></a>
+<a href="https://www.linkedin.com/in/adarsh-sharma-qa"><img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=33FF00" /></a>
+
+<sub>// EOF — thanks for reading the source</sub>
+
+</div>
+
+</details>
