@@ -301,67 +301,37 @@ I'm open to **QA**, **Test Automation** (Selenium / Playwright / Appium / Robot 
 
 <br/>
 
-```text
-$ ssh adarsh@github.io
-Connecting to github.io... [OK]
-Authenticating guest session... [OK]
-Loading profile ./adarsh-sharma-qa... [OK]
+<div align="center">
 
-+--------------- SYSTEM STATUS ----------------+
-| USER       : Adarsh Sharma                   |
-| ROLE       : QA Team Lead @ KPI (Infithra)   |
-| LOCATION   : Dubai, UAE                      |
-| STATUS     : [OK] OPEN_TO_WORK               |
-| FOCUS      : QA / Automation / AI Evaluation |
-| EXPERIENCE : 6+ yrs (5+ in QA automation)    |
-+------------------------------------------------+
+<img src="assets/term-boot-top.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=700&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=60&lines=%24+whoami;%3E+QA_TEAM_LEAD+%7C+TEST_AUTOMATION+%7C+AI_EVALUATION_ENGINEER;%24+ssh+adarsh%40github.io;Connecting+to+github.io...+%5BOK%5D;Authenticating+guest+session...+%5BOK%5D;Loading+profile+.%2Fadarsh-sharma-qa...+%5BOK%5D" width="100%" alt="live terminal" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
 
-$ automation --list-skills
-SELENIUM            [██████████████████░░] 90%
-PLAYWRIGHT          [████████████████░░░░] 80%
-APPIUM              [███████████████░░░░░] 75%
-ROBOT_FRAMEWORK     [█████████████████░░░] 85%
-AI_EVAL/DEEPEVAL    [███████████████░░░░░] 75%
-CI_CD_PIPELINES     [█████████████████░░░] 85%
+<br/>
 
-$ cat experience.log
-[2025-NOW ] KPI (Infithra) :: QA_TEAM_LEAD     :: built QA org from zero; AI self-healing automation
-[2022-2024] SDET Tech      :: SDET_II          :: clients: Systech360, Builder_AI, HaulHub
-[2021-2022] Qualitest      :: TEST_ENGINEER    :: client: Adobe
-[2017-2018] Aisin          :: ENGINEER_TRAINEE :: clients: Maruti_Suzuki, Toyota
+<img src="assets/term-status.png" width="100%"/>
 
-$ automation --help
-  --selenium          Java WebDriver automation frameworks
-  --playwright         JS/TS UI automation
-  --appium              iOS & Android mobile automation
-  --robotframework        Python keyword-driven suites (1500+ cases)
-  --deepeval                LLM / GenAI output evaluation
-  --mcp                       Agentic self-healing automation (Claude Code)
-  --ci  jenkins,gitlab-ci,azure-devops,circleci
-  --infra  docker,kubernetes,grafana,sonarcloud
+<br/>
 
-$ cat certifications.log
-[OK] AI Evaluation with DeepEval             -- Udemy
-[OK] LangChain for Beginners (RAG systems)   -- Udemy
-[OK] Jira with Real-World Examples           -- Udemy
-[OK] Java Programming: Solving Problems
-[OK] Python: Getting Started
-[OK] JMeter: Performance Testing
+<img src="assets/term-skills.png" width="100%"/>
 
-$ cat projects.log
-[Unisecure]   Automated Android/iOS flows (Robot Framework + Appium) for regulatory compliance
-[Paper Trade] End-to-end QA (UI/API/DB) for a $10M B2B e-commerce platform
+<br/>
 
-$ contact --email
-> adarshqa91@gmail.com
+<img src="assets/term-experience.png" width="100%"/>
 
-$ contact --linkedin
-> linkedin.com/in/adarsh-sharma-qa
+<br/>
 
-$ status --current
-> OPEN_TO_WORK :: QA / Automation / AI_Evaluation roles, remote-friendly
-_
-```
+<img src="assets/term-techstack.png" width="100%"/>
+
+<br/>
+
+<img src="assets/term-certs-projects.png" width="100%"/>
+
+<br/>
+
+<img src="assets/term-contact.png" width="100%"/>
+
+</div>
 
 <br/>
 
