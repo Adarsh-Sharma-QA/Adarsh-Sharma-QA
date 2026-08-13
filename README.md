@@ -1,17 +1,36 @@
-<div align="center">
-
-<img src="assets/hero-top.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1600&pause=1200&color=3C823C&background=080C08&center=false&vCenter=true&width=1400&height=50&lines=%3E+INITIALIZING+QA+PROTOCOLS...;%3E+SYSTEM+READY+%5BOK%5D;%3E+SCANNING+FOR+BUGS...+%5BOK%5D" width="100%" alt="init"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=1400&pause=1400&color=33FF00&background=080C08&center=false&vCenter=true&width=1400&height=130&lines=FIND+BUGS+BEFORE;YOUR+USERS+DO" width="100%" alt="headline"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=1000&color=96BE96&background=080C08&center=false&vCenter=true&width=1400&height=50&lines=Adarsh+Sharma+-+QA+Team+Lead+building+test+automation+frameworks%2C;AI%2FLLM+evaluation+pipelines%2C+and+CI%2FCD+quality+gates%2C;that+let+teams+ship+faster+without+breaking+things." width="100%" alt="paragraph"/>
-<img src="assets/hero-buttons.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=2000&color=FFB000&background=080C08&center=false&vCenter=true&width=1400&height=55&lines=STATUS%3A+Open+to+work+--+QA+%2F+Automation+%2F+AI+Evaluation+roles%2C+remote-friendly" width="100%" alt="status"/>
-<img src="assets/hero-stats.png" width="100%"/>
-<img src="assets/hero-bottom.png" width="100%"/>
-
-</div>
+<div align="center"><img src="assets/hero-top.png" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1600&pause=1200&color=3C823C&background=080C08&center=false&vCenter=true&width=1400&height=50&lines=%3E+INITIALIZING+QA+PROTOCOLS...;%3E+SYSTEM+READY+%5BOK%5D;%3E+SCANNING+FOR+BUGS...+%5BOK%5D" width="100%" alt="init"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=1400&pause=1400&color=33FF00&background=080C08&center=false&vCenter=true&width=1400&height=130&lines=FIND+BUGS+BEFORE;YOUR+USERS+DO" width="100%" alt="headline"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=1000&color=96BE96&background=080C08&center=false&vCenter=true&width=1400&height=50&lines=Adarsh+Sharma+-+QA+Team+Lead+building+test+automation+frameworks%2C;AI%2FLLM+evaluation+pipelines%2C+and+CI%2FCD+quality+gates%2C;that+let+teams+ship+faster+without+breaking+things." width="100%" alt="paragraph"/><img src="assets/hero-buttons.png" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=2000&color=FFB000&background=080C08&center=false&vCenter=true&width=1400&height=55&lines=STATUS%3A+Open+to+work+--+QA+%2F+Automation+%2F+AI+Evaluation+roles%2C+remote-friendly" width="100%" alt="status"/><img src="assets/hero-stats.png" width="100%"/><img src="assets/hero-bottom.png" width="100%"/></div>
 
 <br/>
+
+<div align="center"><img src="assets/term-boot-top.png" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=700&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=60&lines=%24+whoami;%3E+QA_TEAM_LEAD+%7C+TEST_AUTOMATION+%7C+AI_EVALUATION_ENGINEER;%24+ssh+adarsh%40github.io;Connecting+to+github.io...+%5BOK%5D;Authenticating+guest+session...+%5BOK%5D;Loading+profile+.%2Fadarsh-sharma-qa...+%5BOK%5D" width="100%" alt="live terminal"/><img src="assets/term-boot-bottom.png" width="100%"/></div>
+
+<br/>
+
+<div align="center"><img src="assets/term-load-status.png" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Initializing+system_status.log..." width="100%" alt="loading"/><img src="assets/term-boot-bottom.png" width="100%"/><img src="assets/term-status.png" width="100%"/></div>
+
+<br/>
+
+<div align="center"><img src="assets/term-load-skills.png" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Compiling+automation+--list-skills..." width="100%" alt="loading"/><img src="assets/term-boot-bottom.png" width="100%"/><img src="assets/term-skills.png" width="100%"/></div>
+
+<br/>
+
+<div align="center"><img src="assets/term-load-experience.png" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Fetching+experience.log..." width="100%" alt="loading"/><img src="assets/term-boot-bottom.png" width="100%"/><img src="assets/term-experience.png" width="100%"/></div>
+
+<br/>
+
+<div align="center"><img src="assets/term-load-techstack.png" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Resolving+automation+--help..." width="100%" alt="loading"/><img src="assets/term-boot-bottom.png" width="100%"/><img src="assets/term-techstack.png" width="100%"/></div>
+
+<br/>
+
+<div align="center"><img src="assets/term-load-certs.png" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Indexing+certifications.log..." width="100%" alt="loading"/><img src="assets/term-boot-bottom.png" width="100%"/><img src="assets/term-certs-projects.png" width="100%"/></div>
+
+<br/>
+
+<div align="center"><img src="assets/term-load-contact.png" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Establishing+contact+--list..." width="100%" alt="loading"/><img src="assets/term-boot-bottom.png" width="100%"/><img src="assets/term-contact.png" width="100%"/></div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:33FF00,50:14141F,100:FFD600&height=4&section=header" width="100%"/>
 
 <div align="center">
 
@@ -30,16 +49,6 @@
 <a href="mailto:adarshqa91@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-FFD600?style=for-the-badge&logo=gmail&logoColor=0C0C0C&labelColor=0C0C0C" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Adarsh-Sharma-QA&color=FFD600&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0C0C0C" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="assets/term-boot-top.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=700&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=60&lines=%24+whoami;%3E+QA_TEAM_LEAD+%7C+TEST_AUTOMATION+%7C+AI_EVALUATION_ENGINEER;%24+ssh+adarsh%40github.io;Connecting+to+github.io...+%5BOK%5D;Authenticating+guest+session...+%5BOK%5D;Loading+profile+.%2Fadarsh-sharma-qa...+%5BOK%5D" width="100%" alt="live terminal" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
 
 </div>
 
@@ -93,17 +102,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="assets/term-load-status.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Initializing+system_status.log..." width="100%" alt="loading" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
-<img src="assets/term-status.png" width="100%"/>
-
-</div>
-
-<br/>
-
 ## 🚀 Current Focus
 
 ```text
@@ -113,17 +111,6 @@
 🎯 Looking for my next QA / Automation / AI Evaluation role — remote-friendly
 💬 Ask me about: Selenium, Playwright, Appium, Robot Framework, CI/CD quality gates, or testing AI itself
 ```
-
-<br/>
-
-<div align="center">
-
-<img src="assets/term-load-skills.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Compiling+automation+--list-skills..." width="100%" alt="loading" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
-<img src="assets/term-skills.png" width="100%"/>
-
-</div>
 
 <br/>
 
@@ -173,17 +160,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="assets/term-load-experience.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Fetching+experience.log..." width="100%" alt="loading" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
-<img src="assets/term-experience.png" width="100%"/>
-
-</div>
-
-<br/>
-
 ## 💡 Expertise Highlights
 
 <table width="100%">
@@ -222,17 +198,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="assets/term-load-techstack.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Resolving+automation+--help..." width="100%" alt="loading" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
-<img src="assets/term-techstack.png" width="100%"/>
-
-</div>
-
-<br/>
-
 ## 🎓 Certifications
 
 - 🧾 AI Evaluation with DeepEval — Udemy
@@ -241,17 +206,6 @@
 - ☕ Java Programming: Solving Problems with Software
 - 🐍 Python: Getting Started with Python
 - ⚡ JMeter: Performance Testing with JMeter on Live Apps
-
-<br/>
-
-<div align="center">
-
-<img src="assets/term-load-certs.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Indexing+certifications.log..." width="100%" alt="loading" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
-<img src="assets/term-certs-projects.png" width="100%"/>
-
-</div>
 
 <br/>
 
@@ -272,17 +226,6 @@ Led end-to-end testing (UI / API / database) for a $10M B2B e-commerce platform.
 
 </td></tr>
 </table>
-
-<br/>
-
-<div align="center">
-
-<img src="assets/term-load-contact.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Establishing+contact+--list..." width="100%" alt="loading" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
-<img src="assets/term-contact.png" width="100%"/>
-
-</div>
 
 <br/>
 
