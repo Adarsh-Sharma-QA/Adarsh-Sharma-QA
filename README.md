@@ -26,7 +26,15 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD600,100:0C0C0C&height=4&section=header" width="100%"/>
+<div align="center">
+
+<img src="assets/term-boot-top.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=700&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=60&lines=%24+whoami;%3E+QA_TEAM_LEAD+%7C+TEST_AUTOMATION+%7C+AI_EVALUATION_ENGINEER;%24+ssh+adarsh%40github.io;Connecting+to+github.io...+%5BOK%5D;Authenticating+guest+session...+%5BOK%5D;Loading+profile+.%2Fadarsh-sharma-qa...+%5BOK%5D" width="100%" alt="live terminal" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
+
+</div>
+
+<br/>
 
 ## 🎯 What I Do
 
@@ -76,6 +84,17 @@
 
 <br/>
 
+<div align="center">
+
+<img src="assets/term-load-status.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Initializing+system_status.log..." width="100%" alt="loading" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
+<img src="assets/term-status.png" width="100%"/>
+
+</div>
+
+<br/>
+
 ## 🚀 Current Focus
 
 ```text
@@ -88,7 +107,16 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0C0C,100:FFD600&height=4&section=header" width="100%"/>
+<div align="center">
+
+<img src="assets/term-load-skills.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Compiling+automation+--list-skills..." width="100%" alt="loading" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
+<img src="assets/term-skills.png" width="100%"/>
+
+</div>
+
+<br/>
 
 ## 🛠️ Technology Arsenal
 
@@ -136,6 +164,17 @@
 
 <br/>
 
+<div align="center">
+
+<img src="assets/term-load-experience.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Fetching+experience.log..." width="100%" alt="loading" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
+<img src="assets/term-experience.png" width="100%"/>
+
+</div>
+
+<br/>
+
 ## 💡 Expertise Highlights
 
 <table width="100%">
@@ -174,6 +213,17 @@
 
 <br/>
 
+<div align="center">
+
+<img src="assets/term-load-techstack.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Resolving+automation+--help..." width="100%" alt="loading" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
+<img src="assets/term-techstack.png" width="100%"/>
+
+</div>
+
+<br/>
+
 ## 🎓 Certifications
 
 - 🧾 AI Evaluation with DeepEval — Udemy
@@ -182,6 +232,17 @@
 - ☕ Java Programming: Solving Problems with Software
 - 🐍 Python: Getting Started with Python
 - ⚡ JMeter: Performance Testing with JMeter on Live Apps
+
+<br/>
+
+<div align="center">
+
+<img src="assets/term-load-certs.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Indexing+certifications.log..." width="100%" alt="loading" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
+<img src="assets/term-certs-projects.png" width="100%"/>
+
+</div>
 
 <br/>
 
@@ -202,6 +263,17 @@ Led end-to-end testing (UI / API / database) for a $10M B2B e-commerce platform.
 
 </td></tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+<img src="assets/term-load-contact.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Establishing+contact+--list..." width="100%" alt="loading" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
+<img src="assets/term-contact.png" width="100%"/>
+
+</div>
 
 <br/>
 
@@ -236,70 +308,6 @@ A flaky test at 6pm builds character
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD600,50:14141F,100:33FF00&height=4&section=header" width="100%"/>
-
-<div align="center">
-
-## 💻 Same Story, Raw Shell Version
-
-<sub>Everything above, replayed as an actual terminal session — because a QA engineer's profile should probably have a terminal in it somewhere.</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="assets/term-boot-top.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=700&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=60&lines=%24+whoami;%3E+QA_TEAM_LEAD+%7C+TEST_AUTOMATION+%7C+AI_EVALUATION_ENGINEER;%24+ssh+adarsh%40github.io;Connecting+to+github.io...+%5BOK%5D;Authenticating+guest+session...+%5BOK%5D;Loading+profile+.%2Fadarsh-sharma-qa...+%5BOK%5D" width="100%" alt="live terminal" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
-
-<br/>
-
-<img src="assets/term-load-status.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Initializing+system_status.log..." width="100%" alt="loading" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
-<img src="assets/term-status.png" width="100%"/>
-
-<br/>
-
-<img src="assets/term-load-skills.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Compiling+automation+--list-skills..." width="100%" alt="loading" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
-<img src="assets/term-skills.png" width="100%"/>
-
-<br/>
-
-<img src="assets/term-load-experience.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Fetching+experience.log..." width="100%" alt="loading" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
-<img src="assets/term-experience.png" width="100%"/>
-
-<br/>
-
-<img src="assets/term-load-techstack.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Resolving+automation+--help..." width="100%" alt="loading" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
-<img src="assets/term-techstack.png" width="100%"/>
-
-<br/>
-
-<img src="assets/term-load-certs.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Indexing+certifications.log..." width="100%" alt="loading" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
-<img src="assets/term-certs-projects.png" width="100%"/>
-
-<br/>
-
-<img src="assets/term-load-contact.png" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Establishing+contact+--list..." width="100%" alt="loading" />
-<img src="assets/term-boot-bottom.png" width="100%"/>
-<img src="assets/term-contact.png" width="100%"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:33FF00,100:0a0a0a&height=4&section=header" width="100%"/>
 
 ## 📈 GitHub Stats
 
