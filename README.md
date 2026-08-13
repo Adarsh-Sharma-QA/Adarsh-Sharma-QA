@@ -309,26 +309,44 @@ I'm open to **QA**, **Test Automation** (Selenium / Playwright / Appium / Robot 
 
 <br/>
 
+<img src="assets/term-load-status.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Initializing+system_status.log..." width="100%" alt="loading" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
 <img src="assets/term-status.png" width="100%"/>
 
 <br/>
 
+<img src="assets/term-load-skills.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Compiling+automation+--list-skills..." width="100%" alt="loading" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
 <img src="assets/term-skills.png" width="100%"/>
 
 <br/>
 
+<img src="assets/term-load-experience.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Fetching+experience.log..." width="100%" alt="loading" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
 <img src="assets/term-experience.png" width="100%"/>
 
 <br/>
 
+<img src="assets/term-load-techstack.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Resolving+automation+--help..." width="100%" alt="loading" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
 <img src="assets/term-techstack.png" width="100%"/>
 
 <br/>
 
+<img src="assets/term-load-certs.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Indexing+certifications.log..." width="100%" alt="loading" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
 <img src="assets/term-certs-projects.png" width="100%"/>
 
 <br/>
 
+<img src="assets/term-load-contact.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=33FF00&background=0A0A0A&center=false&vCenter=true&width=1000&height=50&lines=%2A+Establishing+contact+--list..." width="100%" alt="loading" />
+<img src="assets/term-boot-bottom.png" width="100%"/>
 <img src="assets/term-contact.png" width="100%"/>
 
 </div>
