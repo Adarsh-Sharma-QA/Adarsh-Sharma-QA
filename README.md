@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,50:14141F,100:0C0C0C&height=230&section=header&text=Adarsh%20%E2%80%94%20The%20Quality%20Expert&fontSize=38&fontColor=2DD4BF&fontAlignY=38&desc=QA%20Team%20Lead%20%C2%B7%20Test%20Automation%20%C2%B7%20AI%20Evaluation&descAlignY=58&descSize=17&descColor=E5E5E5&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,50:14141F,100:0C0C0C&height=230&section=header&text=Adarsh%20%E2%80%94%20The%20Quality%20Expert&fontSize=38&fontColor=FFD600&fontAlignY=38&desc=QA%20Team%20Lead%20%C2%B7%20Test%20Automation%20%C2%B7%20AI%20Evaluation&descAlignY=58&descSize=17&descColor=E5E5E5&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Adarsh-Sharma-QA">
-  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=26&duration=2600&pause=900&color=2DD4BF&background=0C0C0C&center=true&vCenter=true&width=760&height=60&lines=I+break+products+before+your+users+do+%F0%9F%94%8D;Selenium+%C2%B7+Playwright+%C2%B7+Appium+%C2%B7+Robot+Framework;AI%2FLLM+Evaluation+with+DeepEval+%F0%9F%A4%96;Agentic%2C+self-healing+automation+%E2%9C%A8;Open+to+QA+%2F+Automation+%2F+AI+Eval+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=26&duration=2600&pause=900&color=FFD600&background=0C0C0C&center=true&vCenter=true&width=760&height=60&lines=I+break+products+before+your+users+do+%F0%9F%94%8D;Selenium+%C2%B7+Playwright+%C2%B7+Appium+%C2%B7+Robot+Framework;AI%2FLLM+Evaluation+with+DeepEval+%F0%9F%A4%96;Agentic%2C+self-healing+automation+%E2%9C%A8;Open+to+QA+%2F+Automation+%2F+AI+Eval+roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2DD4BF?style=for-the-badge&logo=briefcasef&logoColor=0C0C0C&labelColor=0C0C0C" />
-<img src="https://img.shields.io/badge/Based%20in-Dubai%2C%20UAE-0C0C0C?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF&labelColor=0C0C0C" />
-<img src="https://img.shields.io/badge/Role-QA%20Team%20Lead-0C0C0C?style=for-the-badge&logo=target&logoColor=2DD4BF&labelColor=0C0C0C" />
-<a href="https://www.linkedin.com/in/adarsh-sharma-qa"><img src="https://img.shields.io/badge/LinkedIn-Connect-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=0C0C0C&labelColor=0C0C0C" /></a>
-<a href="mailto:adarshqa91@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0C0C0C&labelColor=0C0C0C" /></a>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-FFD600?style=for-the-badge&logo=briefcase&logoColor=0C0C0C&labelColor=0C0C0C" />
+<img src="https://img.shields.io/badge/Based%20in-Dubai%2C%20UAE-0C0C0C?style=for-the-badge&logo=googlemaps&logoColor=FFD600&labelColor=0C0C0C" />
+<img src="https://img.shields.io/badge/Role-QA%20Team%20Lead-0C0C0C?style=for-the-badge&logo=target&logoColor=FFD600&labelColor=0C0C0C" />
+<a href="https://www.linkedin.com/in/adarsh-sharma-qa"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFD600?style=for-the-badge&logo=linkedin&logoColor=0C0C0C&labelColor=0C0C0C" /></a>
+<a href="mailto:adarshqa91@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-FFD600?style=for-the-badge&logo=gmail&logoColor=0C0C0C&labelColor=0C0C0C" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Adarsh-Sharma-QA&color=2DD4BF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0C0C0C" />
+<img src="https://komarev.com/ghpvc/?username=Adarsh-Sharma-QA&color=FFD600&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0C0C0C" />
 
 </div>
 
@@ -84,45 +84,45 @@
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Java-0C0C0C?style=for-the-badge&logo=openjdk&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/Python-0C0C0C?style=for-the-badge&logo=python&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/JavaScript-0C0C0C?style=for-the-badge&logo=javascript&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/TypeScript-0C0C0C?style=for-the-badge&logo=typescript&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/SQL-0C0C0C?style=for-the-badge&logo=postgresql&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Java-0C0C0C?style=for-the-badge&logo=openjdk&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/Python-0C0C0C?style=for-the-badge&logo=python&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/JavaScript-0C0C0C?style=for-the-badge&logo=javascript&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/TypeScript-0C0C0C?style=for-the-badge&logo=typescript&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/SQL-0C0C0C?style=for-the-badge&logo=postgresql&logoColor=FFD600" />
 
 **Automation & Testing**
 <br/>
-<img src="https://img.shields.io/badge/Selenium-0C0C0C?style=for-the-badge&logo=selenium&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/Playwright-0C0C0C?style=for-the-badge&logo=playwright&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/Appium-0C0C0C?style=for-the-badge&logo=appium&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/Robot%20Framework-0C0C0C?style=for-the-badge&logo=robotframework&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/JUnit-0C0C0C?style=for-the-badge&logo=junit5&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/Postman-0C0C0C?style=for-the-badge&logo=postman&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/REST%20Assured-0C0C0C?style=for-the-badge&logo=json&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/JMeter-0C0C0C?style=for-the-badge&logo=apachejmeter&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Selenium-0C0C0C?style=for-the-badge&logo=selenium&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/Playwright-0C0C0C?style=for-the-badge&logo=playwright&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/Appium-0C0C0C?style=for-the-badge&logo=appium&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/Robot%20Framework-0C0C0C?style=for-the-badge&logo=robotframework&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/JUnit-0C0C0C?style=for-the-badge&logo=junit5&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/Postman-0C0C0C?style=for-the-badge&logo=postman&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/REST%20Assured-0C0C0C?style=for-the-badge&logo=json&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/JMeter-0C0C0C?style=for-the-badge&logo=apachejmeter&logoColor=FFD600" />
 
 **AI & Evaluation**
 <br/>
-<img src="https://img.shields.io/badge/DeepEval-0C0C0C?style=for-the-badge&logo=checkmarx&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/Claude%20Code%20%2F%20MCP-0C0C0C?style=for-the-badge&logo=anthropic&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/LangChain-0C0C0C?style=for-the-badge&logo=langchain&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/DeepEval-0C0C0C?style=for-the-badge&logo=checkmarx&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/Claude%20Code%20%2F%20MCP-0C0C0C?style=for-the-badge&logo=anthropic&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/LangChain-0C0C0C?style=for-the-badge&logo=langchain&logoColor=FFD600" />
 
 **CI/CD & Infrastructure**
 <br/>
-<img src="https://img.shields.io/badge/Jenkins-0C0C0C?style=for-the-badge&logo=jenkins&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/GitLab%20CI-0C0C0C?style=for-the-badge&logo=gitlab&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/Azure%20DevOps-0C0C0C?style=for-the-badge&logo=azuredevops&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/CircleCI-0C0C0C?style=for-the-badge&logo=circleci&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/Docker-0C0C0C?style=for-the-badge&logo=docker&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/Kubernetes-0C0C0C?style=for-the-badge&logo=kubernetes&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/Grafana-0C0C0C?style=for-the-badge&logo=grafana&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/SonarCloud-0C0C0C?style=for-the-badge&logo=sonarcloud&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Jenkins-0C0C0C?style=for-the-badge&logo=jenkins&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/GitLab%20CI-0C0C0C?style=for-the-badge&logo=gitlab&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/Azure%20DevOps-0C0C0C?style=for-the-badge&logo=azuredevops&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/CircleCI-0C0C0C?style=for-the-badge&logo=circleci&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/Docker-0C0C0C?style=for-the-badge&logo=docker&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/Kubernetes-0C0C0C?style=for-the-badge&logo=kubernetes&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/Grafana-0C0C0C?style=for-the-badge&logo=grafana&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/SonarCloud-0C0C0C?style=for-the-badge&logo=sonarcloud&logoColor=FFD600" />
 
 **Tools**
 <br/>
-<img src="https://img.shields.io/badge/Git-0C0C0C?style=for-the-badge&logo=git&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/Jira-0C0C0C?style=for-the-badge&logo=jira&logoColor=2DD4BF" />
-<img src="https://img.shields.io/badge/BrowserStack-0C0C0C?style=for-the-badge&logo=browserstack&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Git-0C0C0C?style=for-the-badge&logo=git&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/Jira-0C0C0C?style=for-the-badge&logo=jira&logoColor=FFD600" />
+<img src="https://img.shields.io/badge/BrowserStack-0C0C0C?style=for-the-badge&logo=browserstack&logoColor=FFD600" />
 
 <br/>
 
@@ -199,12 +199,12 @@ Led end-to-end testing (UI / API / database) for a $10M B2B e-commerce platform.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Sharma-QA&show_icons=true&count_private=true&bg_color=0C0C0C&title_color=2DD4BF&icon_color=2DD4BF&text_color=E5E5E5&border_color=1a1a1a&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Sharma-QA&layout=compact&bg_color=0C0C0C&title_color=2DD4BF&text_color=E5E5E5&border_color=1a1a1a&hide_border=false" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Sharma-QA&show_icons=true&count_private=true&bg_color=0C0C0C&title_color=FFD600&icon_color=FFD600&text_color=E5E5E5&border_color=1a1a1a&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Sharma-QA&layout=compact&bg_color=0C0C0C&title_color=FFD600&text_color=E5E5E5&border_color=1a1a1a&hide_border=false" width="30%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Sharma-QA&background=0C0C0C&border=1a1a1a&stroke=1a1a1a&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=6B7280" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Sharma-QA&background=0C0C0C&border=1a1a1a&stroke=1a1a1a&ring=FFD600&fire=FFD600&currStreakLabel=FFD600&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=6B7280" width="60%" />
 
 <br/><br/>
 
@@ -250,8 +250,8 @@ A flaky test at 6pm builds character
 
 I'm open to **QA**, **Test Automation** (Selenium / Playwright / Appium / Robot Framework) and **AI Evaluation** roles — remote-friendly.
 
-<a href="mailto:adarshqa91@gmail.com"><img src="https://img.shields.io/badge/Email-adarshqa91%40gmail.com-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0C0C0C&labelColor=0C0C0C" /></a>
-<a href="https://www.linkedin.com/in/adarsh-sharma-qa"><img src="https://img.shields.io/badge/LinkedIn-adarsh--sharma--qa-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=0C0C0C&labelColor=0C0C0C" /></a>
+<a href="mailto:adarshqa91@gmail.com"><img src="https://img.shields.io/badge/Email-adarshqa91%40gmail.com-FFD600?style=for-the-badge&logo=gmail&logoColor=0C0C0C&labelColor=0C0C0C" /></a>
+<a href="https://www.linkedin.com/in/adarsh-sharma-qa"><img src="https://img.shields.io/badge/LinkedIn-adarsh--sharma--qa-FFD600?style=for-the-badge&logo=linkedin&logoColor=0C0C0C&labelColor=0C0C0C" /></a>
 
 <sub>Crafted with precision, tested with paranoia 🧪</sub>
 
