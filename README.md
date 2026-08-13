@@ -13,8 +13,8 @@
 <br/>
 
 <a name="-visual-mode"></a>
-<details open>
-<summary><b>🟡 VISUAL MODE — currently open · click to collapse</b></summary>
+<details>
+<summary><b>🟡 VISUAL MODE — click to expand</b></summary>
 
 <br/>
 
